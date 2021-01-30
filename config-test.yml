@@ -1,1 +1,3 @@
+config:
+ test: "config.test version 1.0"
 
